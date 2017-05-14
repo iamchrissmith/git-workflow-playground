@@ -16,3 +16,5 @@ Start with roadshow:
 
 Decrease conflicts and complications in the future especially around Pull Requests
 
+Difference between `git fetch` and `git pull`
+
